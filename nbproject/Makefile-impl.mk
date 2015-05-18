@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Ver20150518_Aclassiseparate
+PROJECTNAME=verfa
 
 # Active Configuration
 DEFAULTCONF=Debug
